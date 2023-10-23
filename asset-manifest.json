@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-functionally-weather/static/css/main.338533f0.css",
+    "main.js": "/react-functionally-weather/static/js/main.eebecfdf.js",
+    "index.html": "/react-functionally-weather/index.html",
+    "main.338533f0.css.map": "/react-functionally-weather/static/css/main.338533f0.css.map",
+    "main.eebecfdf.js.map": "/react-functionally-weather/static/js/main.eebecfdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.338533f0.css",
+    "static/js/main.eebecfdf.js"
+  ]
+}
